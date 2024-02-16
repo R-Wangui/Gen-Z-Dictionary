@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
         
-         <div className="navbar">
+        <div className="navbar">
             <h1>GEN-Z DICTIONARY</h1>
         </div> 
         <div>
