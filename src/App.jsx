@@ -1,11 +1,11 @@
 import Card from "./Components/Card"
 import data from "./Data"
 import Header from "./Components/Header"
+import Footer from "./Components/Footer"
 
 function App() {
   return (
     <>
-      {/* <h1>GEN-Z DICTIONARY</h1> */}
       <Header />
       <div className="container">
         <Card className="card" title={data[0].title} meaning={data[0].meaning} use={data[0].use} />
@@ -21,7 +21,7 @@ function App() {
         <Card className="card" title={data[10].title} meaning={data[10].meaning} use={data[10].use} />
         <Card className="card" title={data[11].title} meaning={data[11].meaning} use={data[11].use} />
       </div>
-      
+      <Footer />
     </>
   )
 }

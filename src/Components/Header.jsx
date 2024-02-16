@@ -8,7 +8,7 @@ function Header() {
             <h1>GEN-Z DICTIONARY</h1>
         </div> 
         <div>
-            <input type="search" className="search" placeholder="Search" />
+            <input type="search" className="search" placeholder="Search" />   
         </div>
         
         

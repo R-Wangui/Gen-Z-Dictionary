@@ -21,7 +21,7 @@ const data = [
         id: 4,
         title: "GOAT",
         meaning: "Greatest Of All Time",
-        use: "//: Serena Williams earned her spot as the GOAT, and not just in tennis"
+        use: "//: Serena Williams earned her spot as the GOAT, and not just in tennis."
     },
     {
         id: 5,
@@ -69,7 +69,7 @@ const data = [
         id: 12,
         title: "YOLO",
         meaning: "You Only Live Once",
-        use: "//: Take that job and relocate, it will be exciting, YOLO! "
+        use: "//: Take that job and relocate, it will be exciting, YOLO!"
     },
 ]
 export default data
