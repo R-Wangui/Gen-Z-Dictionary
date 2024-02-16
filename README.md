@@ -1,3 +1,4 @@
+This project was carried out by the members of Coding titans after we began studying React in other to test our knowledge on using React components, Vite, props and the .map method to make our code cleaner and reusable.
 The project consists of:
 
 Header component: Displays a header section.
