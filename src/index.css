@@ -30,23 +30,30 @@ h1 {
   width: 400px;
   height: 40px;
   box-shadow: rgba(0, 0, 0, 0.5);
-  border: 1px solid black;
+  border: 1px solid whitesmoke;
   border-radius: 8px;
   padding: 8px 20px;
   margin-left: 200px;
   background-color: whitesmoke;
 }
 
-.add {
-  justify-content: center;
-  width: 300px;
+.button {
+  cursor: pointer;
+  width: 146px;
   height: 40px;
-  box-shadow: rgba(0, 0, 0, 0.5);
-  border: 1px solid black;
+  border: 1px solid white;
   border-radius: 8px;
   padding: 8px 20px;
-  margin-left: 45px;
-  background-color: whitesmoke;
+  margin-left: 160px;
+  /* background-color: #57463a; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: white;
+  
+}
+.button:hover {
+  transform: scale(1.2);
   
 }
 
@@ -70,7 +77,7 @@ input{
   border: 1px solid black;
   border-radius: 8px;
   color: white;
-  background-color: 0A0B09;
+  background-color: black;
   box-shadow: rgba(0, 0, 0, 1.5);
   z-index: 1;
    
